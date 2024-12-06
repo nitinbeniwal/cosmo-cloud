@@ -1,0 +1,4 @@
+apiVersion: v2
+name: cosmocloud-deploy
+description: A Helm chart for deploying cosmocloud stack
+version: 1.0.0
